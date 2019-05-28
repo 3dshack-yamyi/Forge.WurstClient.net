@@ -5,7 +5,7 @@ minecraft-versions:
   - "1.12.2"
   - "1.10.2"
 image: https://user-images.githubusercontent.com/10100202/45531429-0349c380-b7f0-11e8-8720-b96c22ed0467.jpg
----
+---unkounkounkounkounko
 ## Changelog
 
 - Added AntiSpam hack: Blocks chat spam by adding a counter to repeated messages.
